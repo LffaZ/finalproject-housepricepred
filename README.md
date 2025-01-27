@@ -9,7 +9,7 @@ This project aims to predict house prices in King County using a Random Forest m
 - Analyze the relationships between different features and their impact on model accuracy.
 
 ### Methodology  
-1. **Data Assessing**
+1. **Data Accessing**
 2. **Data Cleaning**
 3. **Exploratory Data Analysis (EDA)**
 4. **Feature Engineering**
